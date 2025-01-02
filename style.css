@@ -42,6 +42,12 @@ a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
 header {
   background-color: var(--primary-color);
 }
